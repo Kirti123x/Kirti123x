@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Kirti123x
+- 👀 I’m interested in cs
+- 🌱 I’m currently learning lyf
+- 💞️ I’m looking to collaborate on reddit
+- 📫 How to reach me, this is **the** task
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: too dumb to exist
