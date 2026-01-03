@@ -84,7 +84,8 @@
 ---
 
 <br/>
-<img src="https://raw.githubusercontent.com/Kirti123x/github-snake/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Kirti123x/Kirti123x/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 ###
 
