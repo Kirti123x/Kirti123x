@@ -84,6 +84,8 @@
 ---
 
 <br/>
-![GitHub Snake](https://raw.githubusercontent.com/Kirti123x/github-snake/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Kirti123x/github-snake/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+###
 
 
