@@ -15,8 +15,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 NIT Kurukshetra
-- 📘 2nd Year | Computer Science & Engineering (CSE)
-- 🌱 Currently learning **Backend + APIs**  
+- 📘 3rd Year | Computer Science & Engineering (CSE)
 - 🤝 Open to collaboration on **Open Source / Projects**
 
 ---
